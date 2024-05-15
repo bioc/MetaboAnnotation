@@ -1,3 +1,10 @@
+# MetaboAnnotation 1.8
+
+## Changes in 1.8.1
+
+- Add parameter `scalePeaks` to `plotSpectraMirror()` to allow scaling of peak
+  intensities prior plotting.
+
 # MetaboAnnotation 1.7
 
 ## Changes in 1.7.5
